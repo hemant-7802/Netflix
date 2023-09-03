@@ -115,7 +115,7 @@
                         height: 100%;
                         width: 50%;
                         & video{
-                            transform: translate(115px , 50px);
+                            transform: translate(117px , 60px);
                             + img{
                                 transform: translate(50px , -350px);
                             }
@@ -282,7 +282,6 @@ input[type="radio"]
                 justify-content: space-around;
                 align-items: center;
                 & .f{
-                    /* padding-bottom: 60px; */
                     & p{
                         line-height: 30px;
                         font-size: 15px;
