@@ -115,7 +115,7 @@
                         height: 100%;
                         width: 50%;
                         & video{
-                            transform: translate(117px , 60px);
+                            transform: translate(117px , 70px);
                             + img{
                                 transform: translate(50px , -350px);
                             }
@@ -140,7 +140,7 @@
                         width: 45%;
                         transform: translateX(-50px);
                         & video{
-                            transform: translate(150px , 53.5px);
+                            transform: translate(150px , 54px);
                             + img{
                                 transform: translate(50px , -250px);
                             }
